@@ -1,2 +1,2 @@
-# Java-Full-Stack
+# Java-Full-Stack-Program
 Java Assignments
